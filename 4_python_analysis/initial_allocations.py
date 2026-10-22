@@ -6,7 +6,7 @@ initial_allocations = pd.DataFrame({"sleeve": ["US Equities", "UK equities", "EU
 print(initial_allocations)
 
 initial_allocations.to_csv(
-    r"C:\Users\jedda\OneDrive\Dahlke Global Opportunities\2_portfolio_data/initial_allocations.csv",
+    r"C:\Users\jedda\Projects\DahlkeGlobalOpps\2_portfolio_data/initial_allocations.csv",
     index=False
 )
 

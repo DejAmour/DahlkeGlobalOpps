@@ -13,7 +13,7 @@ print(One_yr_BM_Rets.head())
 adjusted_close = One_yr_BM_Rets["Adj Close"]
 
 adjusted_close.to_csv(
-    r"C:\Users\jedda\OneDrive\Dahlke Global Opportunities\2_portfolio_data/bm_adjusted_close_prices.csv",
+    r"C:\Users\jedda\Projects\DahlkeGlobalOpps\2_portfolio_data/bm_adjusted_close_prices.csv",
     index=True,
     index_label="Date"
 )

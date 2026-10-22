@@ -7,5 +7,5 @@ inflation_snapshot_2026_09_16["Difference"] =  inflation_snapshot_2026_09_16["Pr
 print(inflation_snapshot_2026_09_16)
 
 inflation_snapshot_2026_09_16.to_csv(
-    r"C:\Users\jedda\OneDrive\Dahlke Global Opportunities\3_research\uk/inflation_snapshot_2026_09_16.csv"
+    r"C:\Users\jedda\Projects\DahlkeGlobalOpps\3_research\uk/inflation_snapshot_2026_09_16.csv"
 )

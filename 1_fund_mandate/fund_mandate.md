@@ -10,7 +10,7 @@ Portfolio Status: Pre-launch
 
 Base Currency: GBP (Pound Sterling)
 
-Portfolio Inception Date: The next available market close after the mandate and holdings are formally approved.
+Portfolio Inception Date: 22/10/26
 
 Neutral Allocation: 60% equities / 40% fixed income
 
@@ -30,7 +30,7 @@ Investment Restrictions:
 
 How tactical views will be formed:
 
-How decisions will be documented: All position sizes and allocation changes must be documented.
+How decisions will be documented: All position sizes and allocation changes will be documented.
 
 Important limitiations:
 
