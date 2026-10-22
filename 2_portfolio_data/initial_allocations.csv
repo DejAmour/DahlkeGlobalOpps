@@ -1,0 +1,8 @@
+sleeve,asset_class,target_weight
+US Equities,Equity,0.4
+UK equities,Equity,0.1
+EU ex UK equities,Equity,0.05
+Jap equities,Equity,0.03
+EM,Equity,0.02
+Gov bonds,Fixed Income,0.2
+Strat bonds,Fixed Income,0.2
