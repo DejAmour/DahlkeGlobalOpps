@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Editors and operating system
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated or cached data
+data/raw/
+data/cache/
