@@ -6,21 +6,31 @@ Fund Name: Dahlke Global Opportunities
 
 Purpose: To find global tactical opportunities whist remaining within risk limits and providing outperformance against our benchmark over the short term.
 
-Base Currency: Pound Sterling
+Portfolio Status: Pre-launch
 
-Portfolio Inception Date: 15/09/26
+Base Currency: GBP (Pound Sterling)
+
+Portfolio Inception Date: The next available market close after the mandate and holdings are formally approved.
 
 Neutral Allocation: 60% equities / 40% fixed income
 
-Rebalancing Rules: Undetermined
+Benchmark Rebalancing: Quarterly
 
-Currency Hedging Policy: Undetermined
+Tactical Portfolio Review: Monthly
 
-Investment Restrictions: None
+Currency Hedging Policy: Equities unhedged; fixed income GBP-hedged.
+
+Investment Restrictions:
+
+- Long-only.
+- Liquid, publicly traded instruments.
+- No leverage.
+- No derivatives initially.
+- All position sizes and allocation changes must be documented.
 
 How tactical views will be formed:
 
-How decisions will be documented:
+How decisions will be documented: All position sizes and allocation changes must be documented.
 
 Important limitiations:
 
