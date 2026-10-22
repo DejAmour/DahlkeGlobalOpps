@@ -1,7 +1,7 @@
 import pandas as pd
 
 adjusted_prices = pd.read_csv(
-    r"C:\Users\jedda\OneDrive\Dahlke Global Opportunities\2_portfolio_data/bm_adjusted_close_prices.csv",
+    r"C:\Users\jedda\Projects\DahlkeGlobalOpps\2_portfolio_data/bm_adjusted_close_prices.csv",
     index_col="Date",
     parse_dates=["Date"]
 
@@ -25,8 +25,9 @@ bm_cum_val = 100*growth_factors.cumprod()
 print(bm_cum_val)
 
 bm_history = monthly_ret.copy()
-bm_history["BM Cumalative Val"] = bm_cum_val
-bm_history["BM Ret"] = cumalative_bm_ret
+bm_history["Benchmark Period Return"] = bm_portfolio_ret
+bm_history["Benchmark Cumulative Value"] = bm_cum_val
+bm_history["Benchmark Cumulative Return"] = (bm_cum_val / 100) - 1
 bm_history.to_csv(
     r"C:\Users\jedda\OneDrive\Dahlke Global Opportunities\2_portfolio_data/bm_history.csv",
     index=True,
